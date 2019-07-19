@@ -1,0 +1,16 @@
+.todo {
+  max-width: 250px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px auto;
+}
+
+.deleteTodo {
+  color: red;
+}
+
+.category {
+  margin-left: 40px;
+  font-weight: 400;
+}
